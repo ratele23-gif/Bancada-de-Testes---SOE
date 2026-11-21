@@ -41,8 +41,4 @@ A regra do exercício aceita de 4750 a 5250 mV, inclusive.
 | P02 | 4620 mV | Reprovada por subtensão |
 | P03 | 5190 mV | Aprovada |
 
-Execute a demonstração duas vezes. Localize uma solicitação de multímetro enquanto outra placa ocupa o instrumento. Confirme que os intervalos de medição são exclusivos mesmo quando a ordem dos postos muda. Veja o roteiro de seis minutos em ROTEIRO.md.
-
-## Apresentação
-
-Abra Apresentacao.html no navegador e avance com Page Down. O roteiro de seis minutos acompanha os seis slides.
+Execute a demonstração duas vezes. Localize uma solicitação de multímetro enquanto outra placa ocupa o instrumento. Confirme que os intervalos de medição são exclusivos mesmo quando a ordem dos postos muda.
